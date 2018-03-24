@@ -1,5 +1,11 @@
 If you get output similar to the following:
 ```
+```
+Try this: `sudo ln -s /usr/lib/x86_64-linux-gnu /usr/lib64`
+
+<details>
+<summary>If you get an error like this :</summary>
+```
 -- The C compiler identification is GNU 6.3.0
 -- The CXX compiler identification is GNU 6.3.0
 -- Check for working C compiler: /home/jconnell/github/PROJ/tools/bin/gcc
@@ -32,17 +38,8 @@ CMake Error at /usr/local/share/cmake-3.11/Modules/CMakeTestCCompiler.cmake:52 (
     Makefile:126: recipe for target 'cmTC_11310/fast' failed
     make: *** [cmTC_11310/fast] Error 2
 ```
-Try this: `sudo ln -s /usr/lib/x86_64-linux-gnu /usr/lib64`
-
-<details>
-<summary>If you get an error like this :</summary>
-asdflkjaslkfjasd
-f
-asdf
-asdf
-asdf
-sdf
 </details>
+Then do something like `bcde`
 
 
 ## See also:
