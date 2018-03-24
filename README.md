@@ -1,10 +1,6 @@
-If you get output similar to the following:
-```
-```
-Try this: `sudo ln -s /usr/lib/x86_64-linux-gnu /usr/lib64`
-
+If you get an error like this:
 <details>
-<summary>If you get an error like this :</summary>
+<summary>cmake error </summary>
 ```
 -- The C compiler identification is GNU 6.3.0
 -- The CXX compiler identification is GNU 6.3.0
@@ -39,7 +35,7 @@ CMake Error at /usr/local/share/cmake-3.11/Modules/CMakeTestCCompiler.cmake:52 (
     make: *** [cmTC_11310/fast] Error 2
 ```
 </details>
-Then do something like `bcde`
+Try this: `sudo ln -s /usr/lib/x86_64-linux-gnu /usr/lib64`
 
 
 ## See also:
