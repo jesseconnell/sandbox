@@ -1,6 +1,7 @@
 If you get an error like this:
 <details>
 <summary>cmake error </summary>
+
 ```
 -- The C compiler identification is GNU 6.3.0
 -- The CXX compiler identification is GNU 6.3.0
