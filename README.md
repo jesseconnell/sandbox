@@ -13,7 +13,7 @@ Try this: `sudo ln -s /usr/lib/x86_64-linux-gnu /usr/lib64`
 CMake Error at /usr/local/share/cmake-3.11/Modules/CMakeTestCCompiler.cmake:52 (message):
   The C compiler
 
-    "/home/jconnell/github/PROJ/tools/bin/gcc"
+    \"/home/jconnell/github/PROJ/tools/bin/gcc\"
 
   is not able to compile a simple test program.
 
